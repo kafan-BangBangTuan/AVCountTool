@@ -23,5 +23,5 @@
 
 #### 您可以通过[狠戳这里](https://www.123pan.com/s/kSM9-we7bd)下载编译好的版本
 #### 我们程序仅支持中文（简体），若有需要请自行翻译；
-#### 最后，有任何问题请在[这里](fengshi@fengshitudio.top)反馈。
+#### 最后，有任何问题请在<fengshi@fengshitudio.top>反馈。
 
