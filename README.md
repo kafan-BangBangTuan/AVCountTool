@@ -2,7 +2,11 @@
 ## 开发：123456aaaafsdeg
 ## 
 ### 主页面
+#### V1.0（QT版）
 ![3c9d6b3c80a2a01e75b3fd600ea4ba47](https://github.com/user-attachments/assets/2e5bf4fc-ccdf-4bab-8306-728fe823d3b6)
+
+#### V1.1（TK版）
+![QQ截图20240926184948](https://github.com/user-attachments/assets/0c0f117d-4966-4325-a5b9-4544a8a6679e)
 
 ### 使用方法
 1.填写杀毒软件名称
@@ -21,7 +25,9 @@
 
 3.~~为什么GH只能上传25M的文件qwq~~
 
-#### 您可以通过[狠戳这里](https://www.123pan.com/s/kSM9-we7bd)下载编译好的版本
+#### 您可以通过[狠戳这里](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9mMTA1ZDU3MjQ1NTFiY2Y0L0VxVkF0TkpnSDBCQnVaMURQTzN4TDVFQjRiaVJtR2YzMGNnTVNMZ3FfNGZzclE%5FZT1tNGl4bVU&id=F105D5724551BCF4%21sd2b440a51f604140b99d433cedf12f91&cid=F105D5724551BCF4)下载编译好的版本
+#### （请使用版本号区分文件，V1.1为重构版，功能不变）
 #### 我们程序仅支持中文（简体），若有需要请自行翻译；
 #### 最后，有任何问题请在<fengshi@fengshitudio.top>反馈。
+
 
